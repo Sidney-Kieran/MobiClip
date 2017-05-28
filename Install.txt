@@ -1,0 +1,9 @@
+How to install mobiclip
+##########################################################################################################################
+
+1. Extract mobiclip.zip into your web server.
+2. Create a new database in your phpmyadmin called mobiclip and import the sql file mobiclip.sql.
+3. Open functions/conn.php and edit the database cridentials to suit your database.
+4. To log into the admin area, go to yourdomainname/admin_area and use the following cridentials
+	email: admin@admin.com
+     password: admin123
